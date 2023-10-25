@@ -14,7 +14,7 @@
 
       },
       {
-          title: "Noise canceling mic",
+          title: "Noise cancelling mic",
           text: "blocks outside noise with new AI powered software",
       },
       {
