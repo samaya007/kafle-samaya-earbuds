@@ -1,4 +1,4 @@
-<img width="535" alt="image" src="https://github.com/samaya007/kafle-samaya-earbuds/assets/121986334/f672745a-c73b-493d-b473-d5c48fd4ee8f">
+<img width="566" alt="image" src="https://github.com/samaya007/kafle-samaya-earbuds/assets/121986334/3d5fdf6c-b663-43fa-b153-dee84a428015">
 
 
 ## Earbuds
