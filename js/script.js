@@ -15,7 +15,7 @@
       },
       {
           title: "Noise canceling mic",
-          text: "blocks outside noice with new AI powered software",
+          text: "blocks outside noise with new AI powered software",
       },
       {
           title: "Fast charging",
